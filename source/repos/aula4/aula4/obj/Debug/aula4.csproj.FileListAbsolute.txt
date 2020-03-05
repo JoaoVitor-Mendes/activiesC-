@@ -1,0 +1,6 @@
+C:\Users\facec.lab03\source\repos\aula4\aula4\bin\Debug\aula4.exe.config
+C:\Users\facec.lab03\source\repos\aula4\aula4\bin\Debug\aula4.exe
+C:\Users\facec.lab03\source\repos\aula4\aula4\bin\Debug\aula4.pdb
+C:\Users\facec.lab03\source\repos\aula4\aula4\obj\Debug\aula4.csprojAssemblyReference.cache
+C:\Users\facec.lab03\source\repos\aula4\aula4\obj\Debug\aula4.exe
+C:\Users\facec.lab03\source\repos\aula4\aula4\obj\Debug\aula4.pdb
